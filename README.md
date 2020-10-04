@@ -6,7 +6,7 @@
 
 ### 1)
 
-    sandbox, dev and master branches are aligned. Alignment starts from master branch.
+    Align `sandbox`, `dev` and `master` branches. Alignment starts from `master` branch.
 
 ### 2)
 
