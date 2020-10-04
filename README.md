@@ -17,4 +17,9 @@
     Create a a feature branch `C` from master. merge it to `sandbox` and `dev`.
 
 ### 4)
+
     Create a feature branch `D` (before merging `C`), try to merge it on `sandbox` and `dev`. Merge `C` and `D` on master.
+
+### 5)
+
+    Create a feature branch called `cleanup`, remove the unneccessary files, then merge it to `sandbox`, `dev` and `master`.
